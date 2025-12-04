@@ -1,0 +1,28 @@
+# Core
+langchain==0.3.3
+langchain-core
+langchain-community
+
+# OpenAI / LiteLLM integration (optional but referenced)
+langchain-openai
+
+# Hugging Face + generation
+transformers
+text-generation
+sentencepiece
+sentence-transformers
+accelerate
+bitsandbytes
+
+# Embeddings / Vector stores
+faiss-cpu
+langchain-huggingface
+
+# Data + utils
+pandas
+tqdm
+kagglehub
+jinja2
+
+# Language detection (LLS proxy)
+langdetect
