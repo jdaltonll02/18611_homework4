@@ -1,10 +1,10 @@
 Zip_file/
-qa_agent/data
-qa_agent/__pycache__
-qa_agent/*.pyc
+improved_qa_agents/data
+improved_qa_agents/__pycache__
+improved_qa_agents/*.pyc
 .DS_Store
 .vscode/
-qa_agent/models/
+improved_qa_agents/models/
 .env
 __pycache__/
 *.pyc
@@ -13,9 +13,9 @@ logs/
 *.log
 *.sqlite3
 *.db
-qa_agent/exportto_s3.ipynb
-qa_agent/import_from_s3.ipynb
-qa_agent/react_public.txt
-qa_agent/hw4_handout.pdf
-baseline_qa_agent/hw4_handout.pdf
+improved_qa_agents/exportto_s3.ipynb
+improved_qa_agents/import_from_s3.ipynb
+improved_qa_agents/react_public.txt
+improved_qa_agents/hw4_handout.pdf
+baseline_qa_agents/hw4_handout.pdf
 
