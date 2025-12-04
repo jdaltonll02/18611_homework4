@@ -1,0 +1,9 @@
+GlobalTrekker	United States	Pittsburgh
+GlobalTrekker	United Kingdom	Bristol.
+GlobalTrekker	Sri Lanka	Nuwara Eliya
+CulinaryDetective	Japan	Kanto
+CulinaryDetective	Brazil	Southeast
+CulinaryDetective	Ethiopia	Horn of Africa
+LinguaLocale	Taiwan	none
+LinguaLocale	Ayiti	none
+LinguaLocale	Србија	none

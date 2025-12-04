@@ -1,0 +1,1640 @@
+====================================================================================================
+MISMATCHED ANSWERS ONLY
+====================================================================================================
+
+[Question 1] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: Uluru, also known as Ayers Rock, is a large sandstone monolith that is sacred to the Pitjantjatjara,...
+
+Expected Answer:
+  Country: Australia
+  City: Unknown/Empty
+
+Generated Answer:
+  Country: Australia
+  City: Uluru (Alice Springs)
+
+Match Status:
+  Country: ✓ MATCH
+====================================================================================================
+
+[Question 4] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: Tomorrowland is an annual electronic music festival held each summer, known as one of the most iconi...
+
+Expected Answer:
+  Country: Belgium
+  City: Boom, Antwerp
+
+Generated Answer:
+  Country: Belgium
+  City: Boom
+
+Match Status:
+  Country: ✓ MATCH
+  City: ✗ MISMATCH
+====================================================================================================
+
+[Question 10] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: This carnival is an annual three-day event in June which focuses on celebrating world cultures, folk...
+
+Expected Answer:
+  Country: Denmark
+  City: Copenhagen
+
+Generated Answer:
+  Country: Brazil
+  City: Rio de Janeiro
+
+Match Status:
+  Country: ✗ MISMATCH
+  City: ✗ MISMATCH
+====================================================================================================
+
+[Question 11] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: This Christmas market dates back to the 16th century. Eight markets are located on well-known street...
+
+Expected Answer:
+  Country: France
+  City: Strasbourg
+
+Generated Answer:
+  Country: Germany
+  City: Nuremberg
+
+Match Status:
+  Country: ✗ MISMATCH
+  City: ✗ MISMATCH
+====================================================================================================
+
+[Question 12] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: Each fall, this old town at the foot of the mountains has a big holiday centered around its famous c...
+
+Expected Answer:
+  Country: Georgia
+  City: Mtskheta
+
+Generated Answer:
+  Country: Georgia
+  City: Tbilisi
+
+Match Status:
+  Country: ✓ MATCH
+  City: ✗ MISMATCH
+====================================================================================================
+
+[Question 13] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: Oktoberfest is an annual event that takes place every October, seen as a massive festival on an open...
+
+Expected Answer:
+  Country: Germany
+  City: Unknown/Empty
+
+Generated Answer:
+  Country: Germany
+  City: Munich
+
+Match Status:
+  Country: ✓ MATCH
+====================================================================================================
+
+[Question 14] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: In this mountainous region, ancient monasteries cling to cliffsides over 400 meters high, accessible...
+
+Expected Answer:
+  Country: Greece
+  City: Unknown/Empty
+
+Generated Answer:
+  Country: Greece
+  City: Meteora
+
+Match Status:
+  Country: ✓ MATCH
+====================================================================================================
+
+[Question 17] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: Diwali, known as the "Festival of Lights", is one of the most important festivals in the country and...
+
+Expected Answer:
+  Country: India
+  City: Unknown/Empty
+
+Generated Answer:
+  Country: India
+  City: Varanasi
+
+Match Status:
+  Country: ✓ MATCH
+====================================================================================================
+
+[Question 21] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: Hexagonal basalt columns rise like stepping-stones from the sea attracting tourists from across Euro...
+
+Expected Answer:
+  Country: Ireland
+  City: Belfast
+
+Generated Answer:
+  Country: Iceland
+  City: Reykjavik
+
+Match Status:
+  Country: ✗ MISMATCH
+  City: ✗ MISMATCH
+====================================================================================================
+
+[Question 22] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: After climbing 414 steps up a narrow staircase, you can find a beautiful view of this city and fired...
+
+Expected Answer:
+  Country: Italy
+  City: Florence 
+
+Generated Answer:
+  Country: Italy
+  City: Florence
+
+Match Status:
+  Country: ✓ MATCH
+  City: ✗ MISMATCH
+====================================================================================================
+
+[Question 23] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: A historical city that is an archaeological site today. This ancient Roman city was famously destroy...
+
+Expected Answer:
+  Country: Italy
+  City: Naples
+
+Generated Answer:
+  Country: Italy
+  City: Pompeii
+
+Match Status:
+  Country: ✓ MATCH
+  City: ✗ MISMATCH
+====================================================================================================
+
+[Question 24] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: This Sea Fireworks Festival is a year-round spectacle, famous for its incredible sound. Set in a mou...
+
+Expected Answer:
+  Country: Japan
+  City: Atami
+
+Generated Answer:
+  Country: Japan
+  City: Nagasaki.
+
+Match Status:
+  Country: ✓ MATCH
+  City: ✗ MISMATCH
+====================================================================================================
+
+[Question 26] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: Charyn Canyon is a natural gorge carved by the Charyn River. Its red cliffs and towering rock spires...
+
+Expected Answer:
+  Country: Kazakhstan
+  City: Unknown/Empty
+
+Generated Answer:
+  Country: Kazakhstan
+  City: Charyn Canyon
+
+Match Status:
+  Country: ✓ MATCH
+====================================================================================================
+
+[Question 27] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: The donkey riding competition is a chaotic and joyous celebration during a religious festival. The a...
+
+Expected Answer:
+  Country: Kenya
+  City: Lamu
+
+Generated Answer:
+  Country: Spain
+  City: Mojácar
+
+Match Status:
+  Country: ✗ MISMATCH
+  City: ✗ MISMATCH
+====================================================================================================
+
+[Question 28] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: Fort Jesus sits along the edge of the Indian Ocean, where the salty breeze mixes with the scent of o...
+
+Expected Answer:
+  Country: Kenya
+  City: mombasa
+
+Generated Answer:
+  Country: Kenya
+  City: Mombasa
+
+Match Status:
+  Country: ✓ MATCH
+  City: ✗ MISMATCH
+====================================================================================================
+
+[Question 29] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: Great migration is the movement of wild-beasts around cycles reserves driven by search of fresh graz...
+
+Expected Answer:
+  Country: Kenya
+  City: Kenya, 
+
+Generated Answer:
+  Country: Kenya
+  City: Maasai Mara
+
+Match Status:
+  Country: ✓ MATCH
+  City: ✗ MISMATCH
+====================================================================================================
+
+[Question 30] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: It is an extinct volcano that is among the tallest in Africa. To the local community it is the home ...
+
+Expected Answer:
+  Country: Kenya
+  City: Unknown/Empty
+
+Generated Answer:
+  Country: Kenya
+  City: Nairobi
+
+Match Status:
+  Country: ✓ MATCH
+====================================================================================================
+
+[Question 31] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: Old Town is a walk through time. The narrow streets filled with intricately carved wooden doors and ...
+
+Expected Answer:
+  Country: Kenya
+  City: Mombasa
+
+Generated Answer:
+  Country: Tanzania
+  City: Zanzibar City
+
+Match Status:
+  Country: ✗ MISMATCH
+  City: ✗ MISMATCH
+====================================================================================================
+
+[Question 32] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: The historic town Mnarani Ruins represents the remnants of the early Swahili civilization in East Af...
+
+Expected Answer:
+  Country: Kenya
+  City: Kilifi
+
+Generated Answer:
+  Country: Tanzania
+  City: Kilwa Kisiwani
+
+Match Status:
+  Country: ✗ MISMATCH
+  City: ✗ MISMATCH
+====================================================================================================
+
+[Question 33] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: Bukchon Hanok village is a historic neighborhood. It's known for traditional korean houses dating ba...
+
+Expected Answer:
+  Country: Korea, South
+  City: Seoul
+
+Generated Answer:
+  Country: South Korea
+  City: Seoul
+
+Match Status:
+  Country: ✗ MISMATCH
+  City: ✓ MATCH
+====================================================================================================
+
+[Question 36] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: Chichen Itza is a historical site located on the Yucatan Peninsula. Considered to be one of the seve...
+
+Expected Answer:
+  Country: Mexico
+  City: Montreal 
+
+Generated Answer:
+  Country: Mexico
+  City: Chichen Itza
+
+Match Status:
+  Country: ✓ MATCH
+  City: ✗ MISMATCH
+====================================================================================================
+
+[Question 42] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: Crater Lakes are rarely seen around the world. This is due to the process it takes to be formed. One...
+
+Expected Answer:
+  Country: Rwanda
+  City: Unknown/Empty
+
+Generated Answer:
+  Country: Rwanda
+  City: Musanze
+
+Match Status:
+  Country: ✓ MATCH
+====================================================================================================
+
+[Question 43] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: Every year in September, thousands gather to witness the naming of baby mountain gorillas born in th...
+
+Expected Answer:
+  Country: Rwanda
+  City: Musanze
+
+Generated Answer:
+  Country: Rwanda
+  City: Kigali
+
+Match Status:
+  Country: ✓ MATCH
+  City: ✗ MISMATCH
+====================================================================================================
+
+[Question 45] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: This is the annual commemoration period observed for 100 days starting on April 7th. The nation enga...
+
+Expected Answer:
+  Country: Rwanda
+  City: Unknown/Empty
+
+Generated Answer:
+  Country: Rwanda
+  City: Kigali
+
+Match Status:
+  Country: ✓ MATCH
+====================================================================================================
+
+[Question 49] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: It is the tallest mountain in Africa with a height of 5,895 meters above sea level and it is found i...
+
+Expected Answer:
+  Country: Tanzania
+  City: Moshi
+
+Generated Answer:
+  Country: Tanzania
+  City: Kilimanajaro
+
+Match Status:
+  Country: ✓ MATCH
+  City: ✗ MISMATCH
+====================================================================================================
+
+[Question 52] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: Often heralded as the home of motor racing, Silverstone saw one of F1's most iconic drives in 2008 w...
+
+Expected Answer:
+  Country: United Kingdom
+  City: London
+
+Generated Answer:
+  Country: United Kingdom
+  City: Northamptonshire
+
+Match Status:
+  Country: ✓ MATCH
+  City: ✗ MISMATCH
+====================================================================================================
+
+[Question 56] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: This is a national park internationally recognized for its granite cliffs, waterfalls, clear streams...
+
+Expected Answer:
+  Country: United States
+  City: Unknown/Empty
+
+Generated Answer:
+  Country: United States
+  City: Yosemite National Park
+
+Match Status:
+  Country: ✓ MATCH
+====================================================================================================
+
+[Question 57] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: Fallingwater is a house located in the mountains, designed by American architect Frank Lloyd Wright ...
+
+Expected Answer:
+  Country: United States
+  City: Pittsburgh
+
+Generated Answer:
+  Country: United States
+  City: Mill Run
+
+Match Status:
+  Country: ✓ MATCH
+  City: ✗ MISMATCH
+====================================================================================================
+
+[Question 59] Type: GlobalTrekker
+----------------------------------------------------------------------------------------------------
+Paragraph: Mount Rainier is a very famous mountain with two main hiking entrances that people can register for ...
+
+Expected Answer:
+  Country: United States
+  City: Mount Rainier
+
+Generated Answer:
+  Country: United States
+  City: Ashford
+
+Match Status:
+  Country: ✓ MATCH
+  City: ✗ MISMATCH
+====================================================================================================
+
+[Question 62] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: hominy, lima beans, chickpeas, pork, bacon, chorizo, onion, garlic
+Description: slow cooked ingredents, served with spicy sauce, savory, meaty
+
+Expected Answer:
+  Country: Argentina
+  Region: All
+
+Generated Answer:
+  Country: United States
+  Region: Southwest
+
+Match Status:
+  Country: ✗ MISMATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 63] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: flour, sugar, eggs, milk, butter, vanilla extract
+Description: think, light, deep square pockets, crisp exterior, taste is mildly sweet and buttery, served with wh...
+
+Expected Answer:
+  Country: Belgium
+  Region: All
+
+Generated Answer:
+  Country: United States
+  Region: Northeast
+
+Match Status:
+  Country: ✗ MISMATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 64] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: black beans, ham, bacon,  onion, garlic, bay leaves
+Description: Slow cooked black beans with assorted pork cutlets, hearty, salty
+
+Expected Answer:
+  Country: Brazil
+  Region: All
+
+Generated Answer:
+  Country: Brazil
+  Region: Southeast Region.
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 65] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: pork loin, potato starch, rice vinegar, sugar, ginger, garlic, carrots, scallions
+Description: sweet and sour flavor, crispy fried exterior, tender meat inside, bright orange-red sauce, slices of...
+
+Expected Answer:
+  Country: China
+  Region: North
+
+Generated Answer:
+  Country: China
+  Region: Eastern China
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 66] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: Glutinous rice, bamboo leaves, pork, salted egg yolk, red bean paste, dates
+Description: Pyramid-shaped food wrapped in leaves, boiled or steamed, dense and sticky texture, can be salty or ...
+
+Expected Answer:
+  Country: China
+  Region: All
+
+Generated Answer:
+  Country: China
+  Region: Southeast China
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 67] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: Chicken breast, red chili peppers, garlic, green onions, ginger, roasted peanuts
+Description: spicy, sweet, savory, numbing, stir-fried over high heat in a wok, chicken is marinated, cooked with...
+
+Expected Answer:
+  Country: China
+  Region: North
+
+Generated Answer:
+  Country: China
+  Region: Sichuan
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 68] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: rice, water, century eggs, lean pork, ginger, scallions, salt
+Description: creamy rice porridge simmered until smooth, tender slices of lean pork, soft pieces of century egg a...
+
+Expected Answer:
+  Country: China
+  Region: South
+
+Generated Answer:
+  Country: China
+  Region: Southern China
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 69] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: wheat noodles, chili oil, sichuan peppercorns, pickled mustard greens, garlic, scallions, soy sauce
+Description: Boiled noodles in spicy, numbing chili-pepper oil with pickled greens and scallions, bold, savory, a...
+
+Expected Answer:
+  Country: China
+  Region: South
+
+Generated Answer:
+  Country: China
+  Region: Sichuan
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 70] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: pork, gelatin, wheat flour dough, ginger, soy sauce, Shaoxing wine, sesame oil, salt, sugar
+Description: steamed in bamboo baskets, thin delicate wrapper, pleated top, filled with minced pork and melted br...
+
+Expected Answer:
+  Country: China
+  Region: East
+
+Generated Answer:
+  Country: China
+  Region: Southern China, particularly Guangdong Province
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 71] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: Flour, syrup, salted egg yolk, vegetable oil
+Description: Round pastry with baked crust, filled with paste and salted egg yolk, sweet, rich, fragrant
+
+Expected Answer:
+  Country: China
+  Region: All
+
+Generated Answer:
+  Country: China
+  Region: Guangdong
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 72] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: duck, malt sugar, wheat flour pancakes, hoisin sauce, scallions, cucumber
+Description: crispy, glazed skin, tender roasted meat, sliced tableside, eaten in thin pancakes with sweet sauce ...
+
+Expected Answer:
+  Country: China
+  Region: North
+
+Generated Answer:
+  Country: China
+  Region: Beijing
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 73] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: teff flour, water
+Description: fermented teff batter cooked on a hot pan, sour taste, spongy and porous texture, thin and floppy, l...
+
+Expected Answer:
+  Country: Ethiopia
+  Region: All
+
+Generated Answer:
+  Country: Ethiopia
+  Region: Horn of Africa
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 74] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: flour, eggs, cheese, butter, yeast, milk, salt
+Description: boat-shaped bread filled with melted cheese, baked until golden, served with a raw egg yolk and a pi...
+
+Expected Answer:
+  Country: Georgia
+  Region: West
+
+Generated Answer:
+  Country: Turkey
+  Region: Black Sea Region.
+
+Match Status:
+  Country: ✗ MISMATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 75] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: flour, water, salt, ground beef and pork mix, onions, black pepper, fresh herbs
+Description: handmade dough dumplings with twisted tops, filled with spiced meat and hot broth inside, boiled unt...
+
+Expected Answer:
+  Country: Georgia
+  Region: East
+
+Generated Answer:
+  Country: Georgia
+  Region: Caucasus region
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 76] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: pork knuckle, salt, pepper, garlic, caraway seeds, beer, onions
+Description: roasted pork leg with crispy skin, cooked in the oven for long time, served with sauerkraut and pota...
+
+Expected Answer:
+  Country: Germany
+  Region: South
+
+Generated Answer:
+  Country: Germany
+  Region: Bavaria
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 77] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: Cassava Dough, Corn Dough, Water, Salt
+Description: fermented corn and cassava dough cooked into a stiff paste, sour taste from fermentation, smooth off...
+
+Expected Answer:
+  Country: Ghana
+  Region: All
+
+Generated Answer:
+  Country: Colombia
+  Region: Cauca
+
+Match Status:
+  Country: ✗ MISMATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 78] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: shrimp, wheat starch, tapioca starch, pork fat, salt, sugar, white pepper, sesame oil
+Description: translucent chewy wrapper, steamed in bamboo baskets, pleated crescent shape, filled with shrimp, cl...
+
+Expected Answer:
+  Country: Hong Kong
+  Region: All
+
+Generated Answer:
+  Country: China
+  Region: Cantonese cuisine
+
+Match Status:
+  Country: ✗ MISMATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 79] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: Lamb, beef, pork, hot dog bun, raw onions, crispy fried onions, ketchup, sweet brown mustard, remoulade
+Description: Grilled or boiled lamb-beef-pork sausage in a soft bun with onions and drizzled sauces, savory, slig...
+
+Expected Answer:
+  Country: Iceland
+  Region: South
+
+Generated Answer:
+  Country: USA
+  Region: Midwest
+
+Match Status:
+  Country: ✗ MISMATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 80] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: yellow lentils, potato, pumpkin, raw banana, eggplant, beans, turmeric, cumin seeds, salt, dried red chilli
+Description: thick stew, slow-cooked, smoky, aromatic
+
+Expected Answer:
+  Country: India
+  Region: East
+
+Generated Answer:
+  Country: India
+  Region: West Bengal
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 81] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: flour, clarified butter, sugar, water
+Description: roasted flour cooked in ghee, combined with hot sugar syrup and water, smooth glossy surface, deep b...
+
+Expected Answer:
+  Country: India
+  Region: North
+
+Generated Answer:
+  Country: India
+  Region: North India
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 82] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: lamb shoulder, neutral oil, green cardamom pods, cinnamon stick, cloves, black peppercorns, fennel seeds, lamb stock, cornstarch, Greek-style yogurt, sugar, red wine vinegar, salt, cilantro
+Description: fiery, tangy, rich flavor, deep red color, cooked on a stovetop or in a slow cooker
+
+Expected Answer:
+  Country: India
+  Region: North
+
+Generated Answer:
+  Country: India
+  Region: South Asia
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 83] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: rice, meat, ginger, garlic, onions, cardamom, cloves, cinnamon, cumin, garam masala, potato
+Description: layering partially cooked rice with marinated meat or vegetables, sealing the pot and slow-cooking i...
+
+Expected Answer:
+  Country: India
+  Region: All
+
+Generated Answer:
+  Country: India
+  Region: North India
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 84] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: chickpeas, onions, tomatoes, ginger-garlic paste, cumin, coriander, turmeric, chana masala powder
+Description: Fluffy fried dough with spicy, tangy chickpea curry.
+
+Expected Answer:
+  Country: India
+  Region: North
+
+Generated Answer:
+  Country: India
+  Region: North India
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 85] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: vermicelli, tapioca pearls, water, milk, jaggery, caradmom powder, ghee, cashew, raisins
+Description: sweet milk pudding with tapioca pearls and vermicelli, creamy, sweet
+
+Expected Answer:
+  Country: India
+  Region: South
+
+Generated Answer:
+  Country: India
+  Region: South India
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 86] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: chickpeas, onions, tomatoes, ginger, garlic, green chilies, coriander, turmeric, garam masala, red chili powder
+Description: chickpeas simmered in spiced tomato-onion gravy
+
+Expected Answer:
+  Country: India
+  Region: North
+
+Generated Answer:
+  Country: India
+  Region: North India
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 87] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: small brinjal (eggplant), peanuts, sesame seeds, coriander seeds, cumin seeds, fenugreek seeds, cinnamon stick, cardamom pods, cloves, dry coconut (sliced), ginger, garlic, onion, Kashmiri red chilli powder, turmeric, oil, mustard seeds, curry leaves, tamarind extract, coriander (fresh), salt
+Description: tender small brinjals slit and stuffed with a roasted peanut-sesame-spice paste, sautéed then simmer...
+
+Expected Answer:
+  Country: India
+  Region: South
+
+Generated Answer:
+  Country: India
+  Region: South India
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 88] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: cashew nuts, sugar, water, ghee, cardamom powder, edible silver leaf
+Description: smooth cashew paste cooked with sugar syrup, soft fudge-like texture, mildly sweet and rich, diamond...
+
+Expected Answer:
+  Country: India
+  Region: All
+
+Generated Answer:
+  Country: India
+  Region: Maharashtra
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 89] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: ground beef, ground lamb, grated onion, salt, pepper, sumac, garlic, turmeric, saffron water, egg, baking soda, butter
+Description: skewered and grilled over hot coals, savory, rich charred brown appearance
+
+Expected Answer:
+  Country: Iran
+  Region: All
+
+Generated Answer:
+  Country: Turkey
+  Region: Anatolia.
+
+Match Status:
+  Country: ✗ MISMATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 90] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: arborio rice, chopped tomatoes, chicken broth, white wine, chopped onions, chopped garlic, parmesan cheese, mozerella cheese, shredded basil
+Description: Rice cooked in chicken broth with other ingredients mixed in, garden fresh, colorful
+
+Expected Answer:
+  Country: Italy
+  Region: North
+
+Generated Answer:
+  Country: Italy
+  Region: Northern Italy (specifically the Lombardy region).
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 91] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: pecorino, guanciale, egg yolk, pasta, pepper
+Description: pasta with bacon and egg yolk sauce
+
+Expected Answer:
+  Country: Italy
+  Region: All
+
+Generated Answer:
+  Country: Italy
+  Region: Lazio
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 92] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: cabbage, flour, eggs, dashi or water, pork belly or seafood, green onion, okonomiyaki sauce, Japanese mayo, bonito flakes, pickled ginger, tempura scraps
+Description: griddled savory pancake, crispy edges with soft interior, customizable fillings, sweet–savory brown ...
+
+Expected Answer:
+  Country: Japan
+  Region: West
+
+Generated Answer:
+  Country: Japan
+  Region: Kansai region
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 93] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: pork cutlet, eggs, onions, rice, soy sauce, dashi, mirin, sugar
+Description: Golden-fried pork cutlet simmered with onions and egg in savory-sweet sauce, served over rice
+
+Expected Answer:
+  Country: Japan
+  Region: East
+
+Generated Answer:
+  Country: Japan
+  Region: Kanto region
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 94] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: wheat flour batter, octopus pieces, green onion, pickled ginger, tempura scraps (tenkasu), takoyaki sauce, Japanese mayo, bonito flakes, aonori (seaweed powder)
+Description: griddled round dumplings, crispy outside and soft inside, savory and slightly sweet sauce, mayo driz...
+
+Expected Answer:
+  Country: Japan
+  Region: West
+
+Generated Answer:
+  Country: Japan
+  Region: Osaka
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 95] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: Cornflour, water. 
+Description: Boil water until it sizzles, add corn flour until gradually it is not sticky. Cover for a few minute...
+
+Expected Answer:
+  Country: Kenya
+  Region: All
+
+Generated Answer:
+  Country: Mexico
+  Region: various regions
+
+Match Status:
+  Country: ✗ MISMATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 96] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: omena, onions, tomatoes, jugs of hot water, garlic, cooking oil, salt, cilantro, lime, lemon, bell pepper
+Description: pan-fried raw wet or dried Omena fish stew, tangy, lime burst, fried till crispy, bell paper and cil...
+
+Expected Answer:
+  Country: Kenya
+  Region: West
+
+Generated Answer:
+  Country: Kenya
+  Region: Coastal region
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 97] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: Napa cabbage, red pepper flakes, garlic, ginger, scallions, fish sauce, salt
+Description: slice cabbage and salt, coat with pepper flakes, ferment, umami, spicy
+
+Expected Answer:
+  Country: Korea, South
+  Region: All
+
+Generated Answer:
+  Country: Korea
+  Region: East Asia
+
+Match Status:
+  Country: ✗ MISMATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 98] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: eggplant, tahini, olive oil, lemon juice, garlic
+Description: smoky, creamy dip with mashed eggplant, savory, umami
+
+Expected Answer:
+  Country: Lebanon
+  Region: All
+
+Generated Answer:
+  Country: Turkey
+  Region: Middle East
+
+Match Status:
+  Country: ✗ MISMATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 99] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: grinded cassava leaf, bush meat or seafood, salt, maggi cube, pepper, onion, palm oil or refined vegetable oil, rice
+Description: grinded cassava leaf boil or fried with ingredients and served with rice, umami, savory
+
+Expected Answer:
+  Country: Liberia
+  Region: West
+
+Generated Answer:
+  Country: Cameroon
+  Region: Central Africa
+
+Match Status:
+  Country: ✗ MISMATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 100] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: thinly sliced pork, pineapple, onion, cilantro, corn tortillas, marinade
+Description: crispy tortilla, fillings can be grilled, fried, roasted, savory, bright, balanced, crisp onions, sm...
+
+Expected Answer:
+  Country: Mexico
+  Region: All
+
+Generated Answer:
+  Country: Mexico
+  Region: Taco
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 101] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: Raw rice, cooked rice, yeast, sugar, salt
+Description: slightly sweet, savoury rice dish, fermented
+
+Expected Answer:
+  Country: Nigeria
+  Region: North
+
+Generated Answer:
+  Country: Thailand
+  Region: Northeastern Region/Isan
+
+Match Status:
+  Country: ✗ MISMATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 102] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: long-grain rice, tomatoes, tomato paste, onions, red bell pepper, vegetable oil, garlic, ginger, scotch bonnet (or chili pepper), chicken or vegetable stock, salt, spices (such as thyme, curry powder, bay leaf), water
+Description: rice cooked in a rich tomato and pepper sauce, smoky and savory flavor, bright red color, fluffy gra...
+
+Expected Answer:
+  Country: Nigeria
+  Region: All
+
+Generated Answer:
+  Country: Nigeria
+  Region: West Africa
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 103] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: Chinese Eggplant, egg, banana ketchup, salt, pepper, oil, scallions
+Description: Charred Eggplant and egg pan-fried served with banana ketchup, smoky, savory, sweet
+
+Expected Answer:
+  Country: Philippines
+  Region: All
+
+Generated Answer:
+  Country: Philippines
+  Region: Southeast Asia
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 104] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: Salted cod, onions, thinly shredded potatoes, eggs, olive oil, parsley, black olives
+Description: Sautéed cod with onions and shredded potatoes, mixed with eggs, savory, slightly salty, golden and t...
+
+Expected Answer:
+  Country: Portugal
+  Region: West
+
+Generated Answer:
+  Country: Spain
+  Region: Basque Country
+
+Match Status:
+  Country: ✗ MISMATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 105] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: cassava leaves, spinach, green onions, eggplant, bell peppers, peanut butter, palm oil, rosemary, garlic, celery, leeks, broth, salt
+Description: boiled cassava leaves mixed with chopped spinach green onions eggplant and bell peppers, cooked in b...
+
+Expected Answer:
+  Country: Rwanda
+  Region: West
+
+Generated Answer:
+  Country: Democratic Republic of the Congo
+  Region: Central Africa
+
+Match Status:
+  Country: ✗ MISMATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 106] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: chicken, rice, soy sauce, garlic, cucumber, ginger
+Description: Poached chicken served over fragrant rice cooked in chicken stock
+
+Expected Answer:
+  Country: Singapore
+  Region: South
+
+Generated Answer:
+  Country: China
+  Region: Southeast
+
+Match Status:
+  Country: ✗ MISMATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 107] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: rice noodles, eggs, shrimp, tofu, lime, peanuts, fish sauce, bean sprouts
+Description: stir friend quickly over high heat in a wok, noodles are soaked, sweet, tangy, slightly salty, soft,...
+
+Expected Answer:
+  Country: Thailand
+  Region: All
+
+Generated Answer:
+  Country: Thailand
+  Region: Southeast Asia
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 108] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: seafood, beef, chicken, spinach, onions, garlic, ginger, tomatoes, pumpkin seeds, peppers
+Description: sauce, inclusion of ground pumpkin seeds, savory, earthy, and rich umami flavor profile, thick and g...
+
+Expected Answer:
+  Country: Togo
+  Region: All
+
+Generated Answer:
+  Country: Mexico
+  Region: Oaxacan cuisine
+
+Match Status:
+  Country: ✗ MISMATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 109] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: banana leaves, water, banana
+Description: golden yellow when cooked, soft, neutral taste
+
+Expected Answer:
+  Country: Uganda
+  Region: All
+
+Generated Answer:
+  Country: Philippines
+  Region: Southeast Asia
+
+Match Status:
+  Country: ✗ MISMATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 110] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: beef broth, cabbage, onion, carrot, olive oil, beet, potato, tomato paste, salt,  white vinegar, sugar, dill, garlic, pepper, sour cream
+Description: sour soup made with vegetables, especially beets and cabbage, red-purple in color
+
+Expected Answer:
+  Country: Ukraine
+  Region: All
+
+Generated Answer:
+  Country: Ukraine
+  Region: Central and Eastern Ukraine
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 111] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: pork blood, pork fat, oatmeal, onions, salt, spices
+Description: Pan-fried with a crisp exterior and firm, crumbly interior, savory and earthy, dark brown to black i...
+
+Expected Answer:
+  Country: United Kingdom
+  Region: North
+
+Generated Answer:
+  Country: Scotland
+  Region: Highlands
+
+Match Status:
+  Country: ✗ MISMATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 112] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: wheat flour, olive oil, cornmeal, butter, mozzarella cheese, tomato sauce, crushed tomatoes, Italian sausage, pepperoni, onion, garlic, dried oregano, dried basil, salt
+Description: tall buttery crust baked in a round pan, thick layer of stretchy cheese on the bottom, chunky tomato...
+
+Expected Answer:
+  Country: United States
+  Region: North
+
+Generated Answer:
+  Country: USA
+  Region: Chicago
+
+Match Status:
+  Country: ✗ MISMATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 113] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: rice, carrot, onion, lamb or beef, chickpeas, black pepper, salt, garlic head, oil
+Description: fried ingredients except rice, rice is pressure cooked with water, might be too oily for the first t...
+
+Expected Answer:
+  Country: Uzbekistan
+  Region: All
+
+Generated Answer:
+  Country: Jordan
+  Region: Middle East
+
+Match Status:
+  Country: ✗ MISMATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 114] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: glutinous rice, mung beans, coconut milk, banana leaves, pork belly, shallots
+Description: wrapped in banana leaves and shaped into a square block, steamed or boiled for hours until firm, sti...
+
+Expected Answer:
+  Country: Vietnam
+  Region: North
+
+Generated Answer:
+  Country: Vietnam
+  Region: Southeast Asia
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 115] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: beef, rice noodles, beef stock, cilantro, thai basil, fish sauce, salt, sugar, star anise, cloves, cinnamon sticks, coriander seeds 
+Description: soup, topped with fresh herbs and bean sprouts, rice noodles in broth, savory, umami, slowly simmere...
+
+Expected Answer:
+  Country: Vietnam
+  Region: All
+
+Generated Answer:
+  Country: Vietnam
+  Region: Southern Vietnam
+
+Match Status:
+  Country: ✓ MATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 116] Type: CulinaryDetective
+----------------------------------------------------------------------------------------------------
+Ingredients: Water, mealie meal
+Description: mealie meal stirred into boiling water until stiff, smooth white lumps, bland taste paired with savo...
+
+Expected Answer:
+  Country: Zambia
+  Region: All
+
+Generated Answer:
+  Country: South Africa
+  Region: Eastern Cape
+
+Match Status:
+  Country: ✗ MISMATCH
+  Region: ✗ MISMATCH
+====================================================================================================
+
+[Question 122] Type: LinguaLocale
+----------------------------------------------------------------------------------------------------
+Sentence: 第四批中欧班列全程时刻表发布 开行数量增至年1000列以上
+
+Expected Answer:
+  Country: China
+
+Generated Answer:
+  Country: 中国
+
+Match Status:
+  Country: ✗ MISMATCH
+====================================================================================================
+
+[Question 124] Type: LinguaLocale
+----------------------------------------------------------------------------------------------------
+Sentence: وفيما يتعلق بالأمن المائي، شدد وزير الخارجية على أهمية التعاون وفقا لقواعد القانون الدولي للحفاظ على...
+
+Expected Answer:
+  Country: Egypt
+
+Generated Answer:
+  Country: مصر
+
+Match Status:
+  Country: ✗ MISMATCH
+====================================================================================================
+
+[Question 143] Type: LinguaLocale
+----------------------------------------------------------------------------------------------------
+Sentence: Why school heads, Knut have ganged up against Junior School teachers
+
+Expected Answer:
+  Country: Kenya
+
+Generated Answer:
+  Country: Australia
+
+Match Status:
+  Country: ✗ MISMATCH
+====================================================================================================
+
+[Question 144] Type: LinguaLocale
+----------------------------------------------------------------------------------------------------
+Sentence: 지난주 경기도 인천에서 차량 운전자가 가속 페달을 잘못 밟아 길을 지나던 보행자를 치어 숨지게 한 혐의로 경찰 수사를 받고 있는 것으로 파악됐습니다.
+
+Expected Answer:
+  Country: Korea, South
+
+Generated Answer:
+  Country: South Korea
+
+Match Status:
+  Country: ✗ MISMATCH
+====================================================================================================
+
+[Question 145] Type: LinguaLocale
+----------------------------------------------------------------------------------------------------
+Sentence: 한덕수 전 국무총리의 내란 재판에 출석한 이상민 전 행정안전부 장관이 모든 질의에 대한 증언을 거부했다.
+
+Expected Answer:
+  Country: Korea, South
+
+Generated Answer:
+  Country: South Korea
+
+Match Status:
+  Country: ✗ MISMATCH
+====================================================================================================
+
+[Question 147] Type: LinguaLocale
+----------------------------------------------------------------------------------------------------
+Sentence: The Ministry of Health is urging the public to remain vigilant and continue practicing all preventiv...
+
+Expected Answer:
+  Country: Liberia
+
+Generated Answer:
+  Country: Malaysia
+
+Match Status:
+  Country: ✗ MISMATCH
+====================================================================================================
+
+[Question 148] Type: LinguaLocale
+----------------------------------------------------------------------------------------------------
+Sentence: Invitamos a quienes deseen expresar críticas y propuestas a enviar sus mensajes a través de este mic...
+
+Expected Answer:
+  Country: Mexico
+
+Generated Answer:
+  Country: Argentina
+
+Match Status:
+  Country: ✗ MISMATCH
+====================================================================================================
+
+[Question 154] Type: LinguaLocale
+----------------------------------------------------------------------------------------------------
+Sentence: استمتع بشغف كرة القدم الحقيقي بكل تفاصيله 
+
+Expected Answer:
+  Country: Qatar
+
+Generated Answer:
+  Country: Saudi Arabia
+
+Match Status:
+  Country: ✗ MISMATCH
+====================================================================================================
+
+[Question 160] Type: LinguaLocale
+----------------------------------------------------------------------------------------------------
+Sentence: Passion made possible
+
+Expected Answer:
+  Country: Singapore
+
+Generated Answer:
+  Country: Australia
+
+Match Status:
+  Country: ✗ MISMATCH
+====================================================================================================
+
+[Question 168] Type: LinguaLocale
+----------------------------------------------------------------------------------------------------
+Sentence: الرئيس الكوري يبدأ "زيارة دولة" إلى الإمارات يوم الإثنين المقبل
+
+Expected Answer:
+  Country: United Arab Emirates
+
+Generated Answer:
+  Country: الإمارات
+
+Match Status:
+  Country: ✗ MISMATCH
+====================================================================================================
+
+Total Questions: 170
+Mismatched Answers: 94
+Accuracy: 44.71%
+
+====================================================================================================
+STATISTICS BY QUESTION TYPE
+====================================================================================================
+
+CulinaryDetective:
+  Total Questions: 55
+  Mismatched Answers: 55
+  Accuracy: 0.00%
+
+GlobalTrekker:
+  Total Questions: 61
+  Mismatched Answers: 29
+  Accuracy: 52.46%
+
+LinguaLocale:
+  Total Questions: 54
+  Mismatched Answers: 10
+  Accuracy: 81.48%

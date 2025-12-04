@@ -1,0 +1,170 @@
+GlobalTrekker	Australia	Alice Springs
+GlobalTrekker	Australia	Sydney.
+GlobalTrekker	The Bahamas	Nassau.
+GlobalTrekker	Belgium	Boom
+GlobalTrekker	Brazil	Parintins
+GlobalTrekker	Canada	Niagara Falls
+GlobalTrekker	China	Qingdao
+GlobalTrekker	China	Harbin
+GlobalTrekker	China	Shanghai
+GlobalTrekker	United Kingdom	Notting Hill
+GlobalTrekker	Germany	Nuremberg
+GlobalTrekker	Georgia	Tbilisi
+GlobalTrekker	Germany	Munich
+GlobalTrekker	Greece	Meteora
+GlobalTrekker	Hungary	Budapest
+GlobalTrekker	India	Delhi
+GlobalTrekker	India	Varanasi
+GlobalTrekker	India	Bangalore
+GlobalTrekker	Iran	Persepolis
+GlobalTrekker	Iran	Shiraz
+GlobalTrekker	Iceland	Reynisfjara
+GlobalTrekker	Portugal	Lisbon
+GlobalTrekker	Italy	Pompeii
+GlobalTrekker	Japan	Nagasaki
+GlobalTrekker	Japan	Tokyo
+GlobalTrekker	Kazakhstan	Charyn
+GlobalTrekker	Spain	Mulegé
+GlobalTrekker	Kenya	Mombasa
+GlobalTrekker	Kenya	Maasai Mara
+GlobalTrekker	Kenia	Nairobi
+GlobalTrekker	Tanzania	Stone Town
+GlobalTrekker	Tanzania	Kilwa Kisiwani
+GlobalTrekker	South Korea	Seoul.
+GlobalTrekker	Liberia	Monrovia
+GlobalTrekker	Malaysia	Kuching
+GlobalTrekker	Mexico	Chichen Itza
+GlobalTrekker	Nepal	Kathmandu
+GlobalTrekker	Netherlands	Amsterdam
+GlobalTrekker	Nigeria	Abeokuta
+GlobalTrekker	Portugal	Lisbon
+GlobalTrekker	Russia	Moscow
+GlobalTrekker		
+GlobalTrekker	Rwanda	Kigali
+GlobalTrekker	Rwanda	Kigali
+GlobalTrekker	Rwanda	Kigali
+GlobalTrekker	Singapore	Gardens by the Bay
+GlobalTrekker	South Africa	Pretoria
+GlobalTrekker	Spain	Buñol
+GlobalTrekker	Tanzania	Moshi
+GlobalTrekker	Turkey	Cappadocia
+GlobalTrekker	United Kingdom	London
+GlobalTrekker	United Kingdom	Northamptonshire
+GlobalTrekker	United States	St. Louis
+GlobalTrekker	United States	Albuquerque
+GlobalTrekker	United States	Davis
+GlobalTrekker	United States	Yosemite National Park
+GlobalTrekker	United States	Mill Run
+GlobalTrekker	United States	New York
+GlobalTrekker	United States	Seattle
+GlobalTrekker	USA	Austin
+GlobalTrekker	United States	Baker
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective	China	Sichuan.
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective	China	Beijing
+CulinaryDetective	Ethiopia	Horn of Africa
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective	India	Southern India
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective	India	Maharashtra
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective	Italy	Lazio
+CulinaryDetective	Japan	Kansai
+CulinaryDetective		
+CulinaryDetective	Japan	Kansai region.
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective	Lebanon	Middle East
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective	United States	Chicago
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
+LinguaLocale	Algeria	none
+LinguaLocale	Bangladesh	none
+LinguaLocale	China	none
+LinguaLocale	China	none
+LinguaLocale	China	none
+LinguaLocale	China	none
+LinguaLocale	Costa Rica	none
+LinguaLocale	مصر	none
+LinguaLocale	France	none
+LinguaLocale	Georgia	none
+LinguaLocale	Germany	none
+LinguaLocale	Germany	none
+LinguaLocale	Greece	none
+LinguaLocale	Guatemala	none
+LinguaLocale	Haiti	none
+LinguaLocale	Hungary	none
+LinguaLocale	India	none
+LinguaLocale	India	none
+LinguaLocale	India	none
+LinguaLocale	India	none
+LinguaLocale	India	none
+LinguaLocale	Iran	none
+LinguaLocale	ایران	none
+LinguaLocale	Ireland	none
+LinguaLocale	Japan	none
+LinguaLocale	Kazakhstan	none
+LinguaLocale	South Africa	none
+LinguaLocale	South Korea	none
+LinguaLocale	South Korea	none
+LinguaLocale	Liberia	none
+LinguaLocale	Malaysia	none
+LinguaLocale	Argentina	none
+LinguaLocale	Monaco	none
+LinguaLocale	Myanmar	none
+LinguaLocale	Nepal	none
+LinguaLocale	Nigeria	none
+LinguaLocale	Poland	none
+LinguaLocale	مصر	none
+LinguaLocale	Rwanda	none
+LinguaLocale	Rwanda	none
+LinguaLocale	Rwanda	none
+LinguaLocale	Rwanda	none
+LinguaLocale	Saudi Arabia	none
+LinguaLocale	Italy	none
+LinguaLocale	South Africa	none
+LinguaLocale	Espainia	none
+LinguaLocale	Tanzania	none
+LinguaLocale	Tanzania	none
+LinguaLocale	Tanzania	none
+LinguaLocale	Tanzania	none
+LinguaLocale	Thailand	none
+LinguaLocale	الإمارات	none
+LinguaLocale	United Kingdom	none
+LinguaLocale	United States	none
