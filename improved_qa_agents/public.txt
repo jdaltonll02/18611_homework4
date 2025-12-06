@@ -1,0 +1,170 @@
+GlobalTrekker	Australia	Alice Springs
+GlobalTrekker	Australia	Sydney
+GlobalTrekker	Bahamas	Nassau
+GlobalTrekker	Belgium	Boom
+GlobalTrekker	Brazil	Parintins
+GlobalTrekker	Canada	Niagara Falls
+GlobalTrekker	China	Qingdao
+GlobalTrekker	China	Harbin
+GlobalTrekker	China	Shanghai
+GlobalTrekker	Denmark	Copenhagen
+GlobalTrekker	France	Strasbourg
+GlobalTrekker	Georgia	Mtskheta
+GlobalTrekker	Germany	Munich
+GlobalTrekker	Greece	Kalambaka
+GlobalTrekker	Hungary	Budapest
+GlobalTrekker	India	Delhi
+GlobalTrekker	India	Unknown
+GlobalTrekker	India	Bengaluru
+GlobalTrekker	Iran	Persepolis
+GlobalTrekker	Iran	Shiraz
+GlobalTrekker	United Kingdom	Bushmills
+GlobalTrekker	Italy	Florence
+GlobalTrekker	Italy	Pompeii
+GlobalTrekker	Japan	Atami
+GlobalTrekker	Japan	Tokyo
+GlobalTrekker	Kazakhstan	Almaty
+GlobalTrekker	Kenya	Lamu
+GlobalTrekker	Kenya	Mombasa
+GlobalTrekker	Kenya	Narok
+GlobalTrekker	Kenya	Unknown
+GlobalTrekker	Kenya	Mombasa
+GlobalTrekker	Kenya	Kilifi
+GlobalTrekker	South Korea	Seoul
+GlobalTrekker	Liberia	Monrovia
+GlobalTrekker	Malaysia	Kuching
+GlobalTrekker	Mexico	Unknown
+GlobalTrekker	Nepal	Kathmandu
+GlobalTrekker	Netherlands	Amsterdam
+GlobalTrekker	Nigeria	Abeokuta
+GlobalTrekker	Portugal	Lisbon
+GlobalTrekker	Russia	Moscow
+GlobalTrekker		
+GlobalTrekker	Rwanda	Musanze
+GlobalTrekker	Rwanda	Kigali
+GlobalTrekker	Rwanda	Kigali
+GlobalTrekker	Singapore	Singapore
+GlobalTrekker	South Africa	Pretoria
+GlobalTrekker	Spain	Buñol
+GlobalTrekker	Tanzania	Unknown
+GlobalTrekker	Turkey	Göreme
+GlobalTrekker	United Kingdom	London
+GlobalTrekker	United Kingdom	Silverstone
+GlobalTrekker	United States	St. Louis
+GlobalTrekker	United States	Albuquerque
+GlobalTrekker	United States	Davis
+GlobalTrekker	United States	Unknown
+GlobalTrekker	United States	Mill Run
+GlobalTrekker	United States	New York City
+GlobalTrekker	United States	Seattle
+GlobalTrekker	United States	Austin
+GlobalTrekker	United States	Baker
+CulinaryDetective	Argentina	Northwest
+CulinaryDetective	Belgium	Brussels-Capital
+CulinaryDetective	Brazil	Southeast
+CulinaryDetective	China	South
+CulinaryDetective	China	All
+CulinaryDetective	China	West
+CulinaryDetective	China	South
+CulinaryDetective	China	West
+CulinaryDetective	China	East
+CulinaryDetective	China	South
+CulinaryDetective	China	North
+CulinaryDetective	Ethiopia	Unknown
+CulinaryDetective	Georgia	Southwest
+CulinaryDetective	Georgia	Northeast
+CulinaryDetective	Germany	South
+CulinaryDetective	Ghana	South
+CulinaryDetective	China	South
+CulinaryDetective	Iceland	All
+CulinaryDetective	India	East
+CulinaryDetective	India	North
+CulinaryDetective	India	West
+CulinaryDetective	India	East
+CulinaryDetective	India	North
+CulinaryDetective	India	South
+CulinaryDetective	India	North
+CulinaryDetective	India	South
+CulinaryDetective	India	All
+CulinaryDetective	Iran	All
+CulinaryDetective	Italy	North
+CulinaryDetective	Italy	Central
+CulinaryDetective	Japan	West
+CulinaryDetective	Japan	All
+CulinaryDetective	Japan	West
+CulinaryDetective	Kenya	All
+CulinaryDetective	Kenya	West
+CulinaryDetective	South Korea	All
+CulinaryDetective	Lebanon	All
+CulinaryDetective	Liberia	All
+CulinaryDetective	Mexico	Central
+CulinaryDetective	India	South
+CulinaryDetective	Nigeria	All
+CulinaryDetective	Philippines	All
+CulinaryDetective	Portugal	Lisbon
+CulinaryDetective	Rwanda	All
+CulinaryDetective	Singapore	All
+CulinaryDetective	Thailand	Central
+CulinaryDetective	Nigeria	South
+CulinaryDetective	Uganda	Central
+CulinaryDetective	Ukraine	All
+CulinaryDetective	United Kingdom	Northwest
+CulinaryDetective	United States	Midwest
+CulinaryDetective	Uzbekistan	All
+CulinaryDetective	Vietnam	North
+CulinaryDetective	Vietnam	South
+CulinaryDetective	Zimbabwe	All
+LinguaLocale	Algeria	none
+LinguaLocale	Bangladesh	none
+LinguaLocale	China	none
+LinguaLocale	China	none
+LinguaLocale	China	none
+LinguaLocale	China	none
+LinguaLocale	Costa Rica	none
+LinguaLocale	Egypt	none
+LinguaLocale	France	none
+LinguaLocale	Georgia	none
+LinguaLocale	Germany	none
+LinguaLocale	Germany	none
+LinguaLocale	Greece	none
+LinguaLocale	Guatemala	none
+LinguaLocale	Haiti	none
+LinguaLocale	Hungary	none
+LinguaLocale	India	none
+LinguaLocale	India	none
+LinguaLocale	India	none
+LinguaLocale	India	none
+LinguaLocale	India	none
+LinguaLocale	Iran	none
+LinguaLocale	Iran	none
+LinguaLocale	Ireland	none
+LinguaLocale	Japan	none
+LinguaLocale	Kazakhstan	none
+LinguaLocale	Kenya	none
+LinguaLocale	Unknown	Unknown
+LinguaLocale	South Korea	none
+LinguaLocale	Liberia	none
+LinguaLocale	Singapore	none
+LinguaLocale	Guatemala	none
+LinguaLocale	Monaco	none
+LinguaLocale	Myanmar	none
+LinguaLocale	Nepal	none
+LinguaLocale	Nigeria	none
+LinguaLocale	Poland	none
+LinguaLocale	Saudi Arabia	none
+LinguaLocale	Rwanda	none
+LinguaLocale	Rwanda	none
+LinguaLocale	Rwanda	none
+LinguaLocale	Rwanda	none
+LinguaLocale	Saudi Arabia	none
+LinguaLocale	Singapore	none
+LinguaLocale	South Africa	none
+LinguaLocale	Spain	none
+LinguaLocale	United Republic of Tanzania	none
+LinguaLocale	Tanzania	none
+LinguaLocale	Tanzania	none
+LinguaLocale	United Republic of Tanzania	none
+LinguaLocale	Thailand	none
+LinguaLocale	United Arab Emirates	none
+LinguaLocale	United Kingdom	none
+LinguaLocale	United States	none

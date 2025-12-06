@@ -7,7 +7,7 @@ import numpy as np
 
 from langchain_community.document_loaders import CSVLoader, JSONLoader
 from rag_system.rag_pipeline import CulinaryRAG
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 
 def load_documents(data_folder="./data"):
