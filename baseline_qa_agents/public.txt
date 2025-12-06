@@ -1,118 +1,118 @@
-GlobalTrekker	Australia	Unknown
-GlobalTrekker	Australia	Sydney
-GlobalTrekker	Bahamas	Unknown
-GlobalTrekker	Belgium	Unknown
-GlobalTrekker	Brazil	Parintins
-GlobalTrekker	Canada	Niagara Falls
-GlobalTrekker	China	Qingdao
-GlobalTrekker	China	Harbin
-GlobalTrekker	China	Shanghai
-GlobalTrekker	Unknown	Unknown
-GlobalTrekker	Unknown	Unknown
-GlobalTrekker	Georgia	Tbilisi
-GlobalTrekker	Germany	Munich
-GlobalTrekker	Greece	Unknown
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
 GlobalTrekker	Hungary	Budapest
 GlobalTrekker	India	Delhi
-GlobalTrekker	India	Unknown
-GlobalTrekker	India	Bangalore
-GlobalTrekker	Iran	Persepolis
-GlobalTrekker	Iran	Shiraz
-GlobalTrekker	United Kingdom	Unknown
-GlobalTrekker	Unknown	Unknown
-GlobalTrekker	Italy	Pompeii
-GlobalTrekker	Japan	Nagoya
-GlobalTrekker	United States	Chicago
-GlobalTrekker	Kazakhstan	Unknown
-GlobalTrekker	Unknown	Unknown
-GlobalTrekker	Republic of Kenya	Mombasa
-GlobalTrekker	Kenyatta	Unknown
-GlobalTrekker	United Republic of Tanzania	Unknown
-GlobalTrekker	Tanzania	Stone Town
-GlobalTrekker	Tanzania	Unknown
-GlobalTrekker	South Korea	Unknown
-GlobalTrekker	Liberia	Monrovia
-GlobalTrekker	Malaysia	Unknown
-GlobalTrekker	Mexico	Unknown
-GlobalTrekker	Nepal	Kathmandu
-GlobalTrekker	Netherlands	Amsterdam
-GlobalTrekker	Nigeria	Abeokuta
-GlobalTrekker	Portugal	Lisbon
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker	Kenyа	Unknown
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
 GlobalTrekker	Russian Federation	Moscow
-GlobalTrekker	Burundi	Unknown
+GlobalTrekker		
+GlobalTrekker		
 GlobalTrekker	Rwanda	Unknown
-GlobalTrekker	Rwanda	Unknown
-GlobalTrekker	Rwanda	Unknown
-GlobalTrekker	Singapore	Unknown
-GlobalTrekker	South Africa	Pretoria
-GlobalTrekker	Spain	Buñol
-GlobalTrekker	Tanzania	Unknown
-GlobalTrekker	Turkey	Unknown
-GlobalTrekker	United Kingdom	London
-GlobalTrekker	United Kingdom	Silverstone
-GlobalTrekker	United States	St. Louis
-GlobalTrekker	United States	Albuquerque
-GlobalTrekker	United States	Davis
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
 GlobalTrekker	United States	Unknown
-GlobalTrekker	United States	Unknown
+GlobalTrekker		
 GlobalTrekker	United States	New York
-GlobalTrekker	United States	Unknown
-GlobalTrekker	United States	Austin
-GlobalTrekker	United States	Unknown
-CulinaryDetective		
-CulinaryDetective	United States	All
+GlobalTrekker		
+GlobalTrekker		
+GlobalTrekker		
+CulinaryDetective	United States	South
+CulinaryDetective	United States	Unknown
 CulinaryDetective	Brazil	All
 CulinaryDetective		
-CulinaryDetective	China	All
+CulinaryDetective	China	Unknown
 CulinaryDetective		
-CulinaryDetective	China	All
-CulinaryDetective		
+CulinaryDetective	China	Unknown
+CulinaryDetective	China	West
 CulinaryDetective		
 CulinaryDetective		
 CulinaryDetective	China	North
 CulinaryDetective	Ethiopia	Unknown
 CulinaryDetective		
 CulinaryDetective		
-CulinaryDetective	Germany	Bavaria
+CulinaryDetective	Germany	South
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective		
 CulinaryDetective		
 CulinaryDetective		
 CulinaryDetective		
 CulinaryDetective	India	North
+CulinaryDetective	India	North
 CulinaryDetective		
-CulinaryDetective		
 CulinaryDetective	India	North
 CulinaryDetective	India	North
-CulinaryDetective	India	Unknown
-CulinaryDetective	India	North
-CulinaryDetective	India	South
 CulinaryDetective	India	All
 CulinaryDetective		
 CulinaryDetective	Italy	North
 CulinaryDetective	Italy	Lazio
 CulinaryDetective	Japan	West
 CulinaryDetective	Japan	All
-CulinaryDetective	Japan	All
-CulinaryDetective	Mexico	All
-CulinaryDetective	Kenya	Coast
-CulinaryDetective	South Korea	Unknown
-CulinaryDetective	Lebanon	Unknown
-CulinaryDetective	Cameroon	Unknown
-CulinaryDetective	Mexico	All
-CulinaryDetective	Thailand	Unknown
+CulinaryDetective	Japan	West
+CulinaryDetective	Mexico	Unknown
 CulinaryDetective		
 CulinaryDetective		
-CulinaryDetective	Portugal	All
+CulinaryDetective	Turkey	Unknown
+CulinaryDetective	Cameroon	All
 CulinaryDetective		
-CulinaryDetective	China	All
+CulinaryDetective		
+CulinaryDetective		
+CulinaryDetective	Philippines	Unknown
+CulinaryDetective		
+CulinaryDetective	Democratic Republic of the Congo	Unknown
+CulinaryDetective	China	Unknown
 CulinaryDetective	Thailand	All
 CulinaryDetective		
-CulinaryDetective	Philippines	All
-CulinaryDetective	Ukraine	Central
 CulinaryDetective		
-CulinaryDetective	United States	North
+CulinaryDetective	Ukraine	Unknown
 CulinaryDetective		
+CulinaryDetective	United States	Midwest
+CulinaryDetective	Jordan	Unknown
 CulinaryDetective	Vietnam	Unknown
-CulinaryDetective	Vietnam	Unknown
+CulinaryDetective	Vietnam	All
 CulinaryDetective	Zimbabwe	Unknown
 LinguaLocale	Algeria	none
 LinguaLocale	Bangladesh	none
@@ -135,7 +135,7 @@ LinguaLocale	India	none
 LinguaLocale	India	none
 LinguaLocale	India	none
 LinguaLocale	India	none
-LinguaLocale	Islamic Republic of Iran	none
+LinguaLocale	Iran	none
 LinguaLocale	Iran	none
 LinguaLocale	Ireland	none
 LinguaLocale	Japan	none
@@ -151,9 +151,9 @@ LinguaLocale	Myanmar	none
 LinguaLocale	Nepal	none
 LinguaLocale	Nigeria	none
 LinguaLocale	Poland	none
-LinguaLocale	Saudi Arabia	none
-LinguaLocale	Republic of Rwanda	none
-LinguaLocale	Burundi	none
+LinguaLocale	United Arab Emirates	none
+LinguaLocale	Rwanda	none
+LinguaLocale	Rwanda	none
 LinguaLocale	Burundi	none
 LinguaLocale	Rwanda	none
 LinguaLocale	Saudi Arabia	none
