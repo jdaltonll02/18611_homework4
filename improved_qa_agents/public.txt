@@ -1,36 +1,36 @@
-GlobalTrekker	Australia	Alice Springs
+GlobalTrekker	Australia	Unknown
 GlobalTrekker	Australia	Sydney
-GlobalTrekker	Bahamas	Nassau
+GlobalTrekker	The Bahamas	Nassau
 GlobalTrekker	Belgium	Boom
 GlobalTrekker	Brazil	Parintins
 GlobalTrekker	Canada	Niagara Falls
 GlobalTrekker	China	Qingdao
 GlobalTrekker	China	Harbin
-GlobalTrekker	China	Shanghai
+GlobalTrekker	People's Republic of China	Shanghai
 GlobalTrekker	Denmark	Copenhagen
-GlobalTrekker	France	Strasbourg
+GlobalTrekker	Germany	Unknown
 GlobalTrekker	Georgia	Mtskheta
 GlobalTrekker	Germany	Munich
-GlobalTrekker	Greece	Kalambaka
+GlobalTrekker	Greece	Kalabaka
 GlobalTrekker	Hungary	Budapest
 GlobalTrekker	India	Delhi
 GlobalTrekker	India	Unknown
 GlobalTrekker	India	Bengaluru
-GlobalTrekker	Iran	Persepolis
+GlobalTrekker	Iran	Marvdasht
 GlobalTrekker	Iran	Shiraz
-GlobalTrekker	United Kingdom	Bushmills
+GlobalTrekker	United Kingdom	Unknown
 GlobalTrekker	Italy	Florence
 GlobalTrekker	Italy	Pompeii
 GlobalTrekker	Japan	Atami
 GlobalTrekker	Japan	Tokyo
-GlobalTrekker	Kazakhstan	Almaty
+GlobalTrekker	Kazakhstan	Unknown
 GlobalTrekker	Kenya	Lamu
 GlobalTrekker	Kenya	Mombasa
-GlobalTrekker	Kenya	Narok
+GlobalTrekker	Kenya	Unknown
 GlobalTrekker	Kenya	Unknown
 GlobalTrekker	Kenya	Mombasa
 GlobalTrekker	Kenya	Kilifi
-GlobalTrekker	South Korea	Seoul
+GlobalTrekker	Republic of Korea	Seoul
 GlobalTrekker	Liberia	Monrovia
 GlobalTrekker	Malaysia	Kuching
 GlobalTrekker	Mexico	Unknown
@@ -39,10 +39,10 @@ GlobalTrekker	Netherlands	Amsterdam
 GlobalTrekker	Nigeria	Abeokuta
 GlobalTrekker	Portugal	Lisbon
 GlobalTrekker	Russia	Moscow
-GlobalTrekker		
+GlobalTrekker	Rwanda	Unknown
 GlobalTrekker	Rwanda	Musanze
 GlobalTrekker	Rwanda	Kigali
-GlobalTrekker	Rwanda	Kigali
+GlobalTrekker	Rwanda	Unknown
 GlobalTrekker	Singapore	Singapore
 GlobalTrekker	South Africa	Pretoria
 GlobalTrekker	Spain	Buñol
@@ -56,11 +56,11 @@ GlobalTrekker	United States	Davis
 GlobalTrekker	United States	Unknown
 GlobalTrekker	United States	Mill Run
 GlobalTrekker	United States	New York City
-GlobalTrekker	United States	Seattle
+GlobalTrekker	United States	Unknown
 GlobalTrekker	United States	Austin
 GlobalTrekker	United States	Baker
 CulinaryDetective	Argentina	Northwest
-CulinaryDetective	Belgium	Brussels-Capital
+CulinaryDetective	Belgium	Central
 CulinaryDetective	Brazil	Southeast
 CulinaryDetective	China	South
 CulinaryDetective	China	All
@@ -71,7 +71,7 @@ CulinaryDetective	China	East
 CulinaryDetective	China	South
 CulinaryDetective	China	North
 CulinaryDetective	Ethiopia	Unknown
-CulinaryDetective	Georgia	Southwest
+CulinaryDetective	Georgia	West
 CulinaryDetective	Georgia	Northeast
 CulinaryDetective	Germany	South
 CulinaryDetective	Ghana	South
@@ -79,7 +79,7 @@ CulinaryDetective	China	South
 CulinaryDetective	Iceland	All
 CulinaryDetective	India	East
 CulinaryDetective	India	North
-CulinaryDetective	India	West
+CulinaryDetective	India	North
 CulinaryDetective	India	East
 CulinaryDetective	India	North
 CulinaryDetective	India	South
@@ -89,12 +89,12 @@ CulinaryDetective	India	All
 CulinaryDetective	Iran	All
 CulinaryDetective	Italy	North
 CulinaryDetective	Italy	Central
-CulinaryDetective	Japan	West
+CulinaryDetective	Japan	Kansai
 CulinaryDetective	Japan	All
-CulinaryDetective	Japan	West
+CulinaryDetective	Japan	Kansai
 CulinaryDetective	Kenya	All
 CulinaryDetective	Kenya	West
-CulinaryDetective	South Korea	All
+CulinaryDetective	Republic of Korea	All
 CulinaryDetective	Lebanon	All
 CulinaryDetective	Liberia	All
 CulinaryDetective	Mexico	Central
@@ -102,10 +102,10 @@ CulinaryDetective	India	South
 CulinaryDetective	Nigeria	All
 CulinaryDetective	Philippines	All
 CulinaryDetective	Portugal	Lisbon
-CulinaryDetective	Rwanda	All
+CulinaryDetective	Burundi	All
 CulinaryDetective	Singapore	All
 CulinaryDetective	Thailand	Central
-CulinaryDetective	Nigeria	South
+CulinaryDetective	Nigeria	Southwest
 CulinaryDetective	Uganda	Central
 CulinaryDetective	Ukraine	All
 CulinaryDetective	United Kingdom	Northwest
@@ -141,17 +141,17 @@ LinguaLocale	Ireland	none
 LinguaLocale	Japan	none
 LinguaLocale	Kazakhstan	none
 LinguaLocale	Kenya	none
-LinguaLocale	Unknown	Unknown
+LinguaLocale	Republic of Korea	none
 LinguaLocale	South Korea	none
 LinguaLocale	Liberia	none
-LinguaLocale	Singapore	none
-LinguaLocale	Guatemala	none
+LinguaLocale	Liberia	none
+LinguaLocale	Chile	none
 LinguaLocale	Monaco	none
 LinguaLocale	Myanmar	none
 LinguaLocale	Nepal	none
 LinguaLocale	Nigeria	none
 LinguaLocale	Poland	none
-LinguaLocale	Saudi Arabia	none
+LinguaLocale	United Arab Emirates	none
 LinguaLocale	Rwanda	none
 LinguaLocale	Rwanda	none
 LinguaLocale	Rwanda	none
@@ -163,7 +163,7 @@ LinguaLocale	Spain	none
 LinguaLocale	United Republic of Tanzania	none
 LinguaLocale	Tanzania	none
 LinguaLocale	Tanzania	none
-LinguaLocale	United Republic of Tanzania	none
+LinguaLocale	Tanzania	none
 LinguaLocale	Thailand	none
 LinguaLocale	United Arab Emirates	none
 LinguaLocale	United Kingdom	none
