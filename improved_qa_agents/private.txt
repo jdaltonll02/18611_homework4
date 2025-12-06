@@ -10,18 +10,18 @@ LinguaLocale	Eritrea	none
 LinguaLocale	Canada	none
 CulinaryDetective	Mexico	South
 GlobalTrekker	Cameroon	Douala
-LinguaLocale	Tanzania	none
+LinguaLocale	United Republic of Tanzania	none
 GlobalTrekker	Italy	Rome
 GlobalTrekker	Taiwan	Jiufen
 LinguaLocale	Uzbekistan	none
 CulinaryDetective	Sri Lanka	All
-LinguaLocale	Bahrain	none
+LinguaLocale	Kingdom of Bahrain	none
 GlobalTrekker	Spain	Madrid
 GlobalTrekker	Nigeria	Umuahia
 LinguaLocale	Iran	none
 LinguaLocale	India	none
 GlobalTrekker	Mauritania	Chinguetti
-CulinaryDetective	Georgia	Northwest
+CulinaryDetective	Georgia	Racha
 LinguaLocale	Latvia	none
 GlobalTrekker	France	Paris
 GlobalTrekker	United States	Marietta
@@ -30,9 +30,9 @@ GlobalTrekker	United States	Honolulu
 LinguaLocale	Vatican City	none
 GlobalTrekker	Fiji	Nadi
 LinguaLocale	India	none
-CulinaryDetective	Nigeria	South
+CulinaryDetective	Nigeria	Southeast
 GlobalTrekker	Cambodia	Siem Reap
-CulinaryDetective	Canada	Quebec
+CulinaryDetective	Canada	East
 CulinaryDetective	New Zealand	All
 LinguaLocale	India	none
 GlobalTrekker	United States	Houston
@@ -56,16 +56,16 @@ LinguaLocale	United Republic of Tanzania	none
 CulinaryDetective	China	East
 LinguaLocale	Angola	none
 GlobalTrekker	Mongolia	Ulaanbaatar
-GlobalTrekker	India	Unknown
-CulinaryDetective	Nigeria	North
-CulinaryDetective	Austria	East
+GlobalTrekker	India	Prayagraj
+CulinaryDetective	United Republic of Tanzania	East
+CulinaryDetective	Austria	Vienna
 CulinaryDetective	Poland	All
 GlobalTrekker	India	Tirupati
 GlobalTrekker	India	Srinagar
 GlobalTrekker	Rwanda	Unknown
 GlobalTrekker	Iran	Tehran
 CulinaryDetective	United States	South
-LinguaLocale	Turkey	none
+LinguaLocale	Türkiye	none
 GlobalTrekker	Slovakia	Bratislava
 CulinaryDetective	South Korea	Southwest
 CulinaryDetective	United Kingdom	Scotland
@@ -82,7 +82,7 @@ LinguaLocale	Norway	none
 LinguaLocale	Nigeria	none
 CulinaryDetective	Peru	North
 LinguaLocale	Germany	none
-LinguaLocale	China	none
+LinguaLocale	People's Republic of China	none
 LinguaLocale	Belarus	none
 CulinaryDetective	Spain	East
 LinguaLocale	Argentina	none
@@ -95,12 +95,12 @@ CulinaryDetective	India	North
 LinguaLocale	Ukraine	none
 CulinaryDetective	Japan	All
 GlobalTrekker	Rwanda	Unknown
-CulinaryDetective	Indonesia	Java
+CulinaryDetective	Indonesia	All
 LinguaLocale	Kenya	none
 GlobalTrekker	United States	Punxsutawney
 GlobalTrekker	Zambia	Mongu
 LinguaLocale	Colombia	none
-CulinaryDetective	China	Macau
+CulinaryDetective	China	South
 CulinaryDetective	India	West
 GlobalTrekker	Lithuania	Vilnius
 LinguaLocale	Indonesia	none
@@ -108,7 +108,7 @@ GlobalTrekker	Brunei Darussalam	Seria
 GlobalTrekker	Egypt	Giza
 CulinaryDetective	Senegal	North
 GlobalTrekker	China	Shenzhen
-LinguaLocale	China	none
+LinguaLocale	People's Republic of China	none
 CulinaryDetective	Nigeria	Southwest
 GlobalTrekker	New Zealand	Waitangi
 CulinaryDetective	India	East
@@ -117,36 +117,36 @@ LinguaLocale	France	none
 CulinaryDetective	Japan	East
 LinguaLocale	Iran	none
 CulinaryDetective	France	All
-GlobalTrekker	Uzbekistan	Unknown
+GlobalTrekker	Tajikistan	Unknown
 CulinaryDetective	Sweden	North
-CulinaryDetective	Russia	All
+CulinaryDetective	Russian Federation	All
 CulinaryDetective	India	West
 CulinaryDetective	India	North
 CulinaryDetective	Turkey	West
 GlobalTrekker	Tanzania	Unknown
 LinguaLocale	Mozambique	none
 GlobalTrekker	Japan	Kyoto
-CulinaryDetective	Morocco	North
+CulinaryDetective	Morocco	All
 GlobalTrekker	Portugal	Cascais
 CulinaryDetective	Netherlands	All
 GlobalTrekker	Denmark	Helsingør
-CulinaryDetective	China	South
+CulinaryDetective	China	East
 CulinaryDetective	Italy	North
-CulinaryDetective	Kenya	East
+CulinaryDetective	Kenya	Coast
 GlobalTrekker	Kenya	Nairobi
 CulinaryDetective	Nepal	All
 LinguaLocale	Botswana	none
-LinguaLocale	Greece	none
+LinguaLocale	Hellenic Republic	none
 CulinaryDetective	Iran	All
 LinguaLocale	Netherlands	none
-GlobalTrekker	United Kingdom	Unknown
+GlobalTrekker	United Kingdom	Salisbury
 LinguaLocale	Sri Lanka	none
 CulinaryDetective	Iran	North
 LinguaLocale	Croatia	none
 GlobalTrekker	United States	New York City
 GlobalTrekker	Greenland	Unknown
 CulinaryDetective	China	South
-CulinaryDetective	United Arab Emirates	All
+CulinaryDetective	Oman	North
 GlobalTrekker	Guatemala	Unknown
 CulinaryDetective	Taiwan	North
 LinguaLocale	France	none
@@ -160,7 +160,7 @@ GlobalTrekker	Finland	Rovaniemi
 GlobalTrekker	Kenya	Gede
 GlobalTrekker	Brazil	Rio de Janeiro
 GlobalTrekker	China	Datong
-CulinaryDetective	Syrian Arab Republic	South
+CulinaryDetective	Syrian Arab Republic	Southwest
 LinguaLocale	United Republic of Tanzania	none
 GlobalTrekker	Kenya	Malindi
 LinguaLocale	Republic of Korea	none
@@ -171,4 +171,4 @@ GlobalTrekker	Saudi Arabia	Riyadh
 CulinaryDetective	China	West
 GlobalTrekker	Bahrain	Unknown
 GlobalTrekker	Nepal	Kathmandu
-LinguaLocale	Bolivia	none
+LinguaLocale	Plurinational State of Bolivia	none
